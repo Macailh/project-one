@@ -9,6 +9,7 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
 # Editor.md
 
